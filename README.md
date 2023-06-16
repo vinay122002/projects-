@@ -1,5 +1,4 @@
-# projects-
-All my machine learning projects 
+# projects- NYC 2019 AIRBNB ANALYSIS
 The Airbnb NYC 2019 dataset can be used to explore various aspects of Airbnb listings in New York City, such as location, availability, price, and review ratings. This dataset can be found on the Inside Airbnb website, which provides publicly available data from Airbnb listings around the world.
 
 To download the Airbnb NYC 2019 dataset, follow these steps:
